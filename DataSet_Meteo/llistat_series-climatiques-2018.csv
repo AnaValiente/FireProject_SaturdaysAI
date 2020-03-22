@@ -1,0 +1,71 @@
+Estació,Comarca,XUTM31 (m),YUTM31 (m),ZUTM31 (m),Codi Fitxer Temperatura Màx.,Codi Fitxer Temperatura Mín.,Codi Fitxer Precipitació
+Valls,Alt Camp,354383,4572742,232,—,—,horrm503
+Cadaqués,Alt Empordà,522741,4681973,10,—,—,horrm576
+Figueres/Cabanes,Alt Empordà,496369,4684011,31,hotxm030,hotnm030,horrm030
+Castellví de la Marca,Alt Penedès,384413,4575898,190,—,—,horrm580
+St. Quintí/Canaletes,Alt Penedès,391013,4593647,325,—,—,horrm579
+Vilafranca del Penedès,Alt Penedès,389362,4576479,176,hotxm210,hotnm210,horrm210
+Oliana,Alt Urgell,360703,4659884,490,hotxm190,hotnm190,horrm190
+Organyà,Alt Urgell,362364,4675337,566,—,—,horrm550
+"Pont de Suert, el",Alta Ribagorça,314390,4696649,823,hotxm010,hotnm010,horrm010
+"Bruc, el",Anoia, 398436,4604131,480,—,—,horrm577
+Igualada/Òdena,Anoia,387729,4604734,333,hotxm200,hotnm200,horrm200
+Balsareny,Bages,406695,4635223,327,—,—,horrm581
+Aeroport de Reus,Baix Camp, 345585,4556658,73,hotxm060,hotnm060,horrm060
+Montbrió del Camp,Baix Camp,333231,4554804,120,—,—,horrm547
+Reus – Centre de Lectura,Baix Camp,341290, 4557644,139,—,—,horrm130
+"Ametlla de Mar, L'",Baix Ebre, 312141,4531061,93,—,—,horrm820
+Observatori de l’Ebre,Baix Ebre,288703,4522022,48,hotxm050,hotnm050,horrm050
+Palafrugell,Baix Empordà,513412,4640472,81,—,—,horrm585
+"Tallada d’Empordà, la",Baix Empordà,505220,4655976,16,—,—,horrm586
+Torrella/l’Estartit,Baix Empordà,516619,4655892,2,—,—,horrm544
+Aeroport de Barcelona,Baix Llobregat,419544, 4572631,3,hotxm070,hotnm070,horrm070
+Begues,Baix Llobregat,410021,4576500,355,—,—,horrm541
+Esparreguera,Baix Llobregat,405663,4599385,206,—,—,horrm539
+Cubelles/Cunit (***),Baix Penedès,385422,4562067,17,—,—,horrm598
+Observatori Fabra,Barcelonès, 426879,4585783,420,hotxm080,hotnm080,horrm080
+Berga (^^),Berguedà,404297,4661856,711,—,—,horrm591
+Puig-reig,Berguedà,406912,4647666,420,—,—,horrm590
+Puigcerdà,Cerdanya,412488,4699403,1214,—,—,horrm260
+Montblanc,Conca de Barberà,346700,4583014,340,—,—,horrm535
+Rocafort de Queralt,Conca de Barberà,356551,4593424,560,—,—,horrm534
+Sarral (*),Conca de Barberà,353692,4589838,473,—,—,horrm593
+Vimbodí,Conca de Barberà,336986,4585078,480,—,—,horrm615
+Castellfollit de la Roca,Garrotxa,462696,4674628,296,—,—,horrm561
+Girona,Gironès,484094, 4648026,72,hotxm090,hotnm090,horrm090
+"Granadella, La",les Garrigues,305102,4580678,532,—,—,horrm597
+"Omellons, els",les Garrigues,329872,4596848,400,—,—,horrm594
+Malgrat de Mar,Maresme,479823,4610825,2,—,—,horrm601
+Moià,Moianès,424938,4629639,735,hotxm040,hotnm040,horrm040
+Amposta,Montsià,295531,4508716,12,—,—,horrm603
+Godall,Montsià, 285896,4503484, 180, —, —,horrm810
+Mas de Barberans,Montsià,280481,4510936,240,—,—,horrm602
+Borgonyà,Osona,437113,4657349,521,—,—,horrm606
+Malla – Torrellebreta,Osona,438458,4634027,570,hotxm170,hotnm170,horrm170
+Prats de Lluçanès,Osona,419493,4651231,701,—,—,horrm526
+Vic,Osona,437077,4643040,499,hotxm250,hotnm250,horrm250
+"Pobla de Segur, la",Pallars Jussà,332357,4678853,508, —, —,horrm830
+Tremp,Pallars Jussà,325636,4670183,461,hotxm220,hotnm220,horrm220
+Esterri d’Àneu,Pallars Sobirà,346435,4721089,950,—,—,horrm575
+Cabacés,Priorat,310331,4569107,357,—,—,horrm520
+Benissanet,Ribera d’Ebre,301310,4547901,30,—,—,horrm608
+Flix/Vinebre,Ribera d’Ebre,298285,4562288,53,hotxm100,hotnm100,horrm100
+Miravet,Ribera d’Ebre,298238,4550034,28,—,—,horrm610
+Riba-roja d’Ebre,Ribera d’Ebre,289267,4569620,88,—,—,horrm609
+Tivissa,Ribera d’Ebre,309325,4546042,313,hotxm110,hotnm110,horrm110
+Campdevànol,Ripollès,431372,4675038,761,—,—,horrm611
+Cervera,Segarra,356563,4614759,540,—,—,horrm612
+Lleida,Segrià,299694, 4611309,192,hotxm120,hotnm120,horrm120
+Breda,Selva,463204,4622015,169,—,—,horrm514
+Riner,Solsonès,384138,4645149,610,—,—,horrm613
+Vilalba dels Arcs,Terra Alta,282544,4555526,442,—,—,horrm511
+Agramunt,Urgell,341937,4628122,342,—,—,horrm510
+Rocallaura,Urgell,345382,4596855,645,—,—,horrm508
+Tàrrega,Urgell,347109,4614634,380,hotxm140,hotnm140,horrm140
+Vielha,Val d’Aran,319403,4729904,975,hotxm020,hotnm020,horrm020
+Terrassa,Vallès Occidental,418467,4601807,290,—,—,horrm507
+Caldes de Montbui,Vallès Oriental,430803,4607309,176,hotxm150,hotnm150,horrm150
+Cardedeu,Vallès Oriental,446743,4609608,193,hotxm160,hotnm160,horrm160
+Granollers,Vallès Oriental,441629,4606726,202,hotxm240,hotnm240,horrm240
+Llinars del Vallès,Vallès Oriental,449900,4610413,194,—,—,horrm504
+Turó de l’Home/Puig Sesolles,Vallès Oriental,453364,4624999,1668,hotxm180,hotnm180,horrm180
