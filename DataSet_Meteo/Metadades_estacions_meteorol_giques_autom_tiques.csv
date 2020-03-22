@@ -1,0 +1,234 @@
+CODI_ESTACIO,NOM_ESTACIO,CODI_TIPUS,LATITUD,LONGITUD,Georeferència,EMPLACAMENT,ALTITUD,CODI_MUNICIPI,NOM_MUNICIPI,CODI_COMARCA,NOM_COMARCA,CODI_PROVINCIA,NOM_PROVINCIA,CODI_XARXA,NOM_XARXA,CODI_ESTAT,NOM_ESTAT,DATA_ALTA,DATA_BAIXA,LIMADM_MUNICIPI,LIMADM COMARCA
+VY,Nulles,A,41.25095,1.29863,POINT (1.29863 41.25095),Cooperativa agrària,240,12,Nulles,1,Alt Camp,43,Tarragona,1,XEMA,2,Operativa,09/18/2000 12:00:00 AM,,375,30
+YB,Olot,A,42.18813,2.47097,POINT (2.47097 42.18813),Pla de Dalt,433,443,Olot,19,Garrotxa,17,Girona,1,XEMA,2,Operativa,07/21/2016 12:00:00 AM,,294,10
+X4,Barcelona - el Raval,A,41.3839,2.16775,POINT (2.16775 41.3839),"Facultat de Geografia i Història. c. Montalegre nº6, 6a",33,332,Barcelona,13,Barcelonès,8,Barcelona,1,XEMA,2,Operativa,10/11/2006 12:00:00 AM,,512,29
+YG,Tírvia,A,42.51881,1.24244,POINT (1.24244 42.51881),Heliport de Tírvia,954,634,Tírvia,26,Pallars Sobirà,25,Lleida,1,XEMA,2,Operativa,01/11/2018 12:00:00 AM,,335,2
+DD,Vilassar de Mar,A,41.51175,2.38674,POINT (2.38674 41.51175),"Soc.Civil d'Aigües ""La Mina Vella",44.5,513,Vilassar de Mar,21,Maresme,8,Barcelona,1,XEMA,1,Desmantellada,05/04/1998 12:00:00 AM,01/16/2015 12:00:00 AM,522,25
+YD,les Borges Blanques,A,41.51135,0.85617,POINT (0.85617 41.51135),Escola Agrària de les Borges Blanques,283,416,Les Borges Blanques,18,Garrigues,25,Lleida,1,XEMA,2,Operativa,01/25/2017 12:00:00 AM,,807,27
+VD,el Canós,A,41.68939,1.20381,POINT (1.20381 41.68939),Camí de la Figuerosa,429,730,Els Plans de Sió,32,Segarra,25,Lleida,1,XEMA,2,Operativa,10/22/1988 12:00:00 AM,,780,19
+WX,Camarasa,A,41.9178,0.88175,POINT (0.88175 41.9178),Camarasa,668,537,Camarasa,23,Noguera,25,Lleida,1,XEMA,2,Operativa,03/07/2006 12:00:00 AM,,113,15
+XV,Sant Cugat del Vallès - CAR,A,41.48311,2.07956,POINT (2.07956 41.48311),Centre d'Alt Rendiment,158,895,Sant Cugat del Vallès,40,Vallès Occidental,8,Barcelona,1,XEMA,2,Operativa,08/08/2013 12:00:00 AM,,937,26
+U1,Cabanes,A,42.30648,2.95481,POINT (2.95481 42.30648),"Mas St. Feliu, S.A., camí de St. Feli, s/n",31,33,Cabanes,2,Alt Empordà,17,Girona,1,XEMA,2,Operativa,06/11/1991 12:00:00 AM,,248,6
+CY,Muntanyola,A,41.87813,2.17873,POINT (2.17873 41.87813),Esglèsia de St. Quirze i Sta. Julita,816,571,Muntanyola,24,Osona,8,Barcelona,1,XEMA,2,Operativa,01/12/1996 12:00:00 AM,,25,13
+MW,Navès,A,42.00707,1.65239,POINT (1.65239 42.00707),el Garrigar,545,811,Navès,35,Solsonès,25,Lleida,1,XEMA,1,Desmantellada,03/22/2010 12:00:00 AM,05/27/2011 12:00:00 AM,67,12
+D6,Portbou,A,42.43515,3.16622,POINT (3.16622 42.43515),Punta de l'Aucell  (zona fronterera),196,65,Portbou,2,Alt Empordà,17,Girona,1,XEMA,2,Operativa,03/25/1998 12:00:00 AM,,,
+D3,Vallirana,A,41.38197,1.93564,POINT (1.93564 41.38197),C. Arquitecte Baldric,252,315,Vallirana,11,Baix Llobregat,8,Barcelona,1,XEMA,2,Operativa,10/28/1995 12:00:00 AM,,813,31
+Z1,Bonaigua (2.266 m),A,42.64691,0.98486,POINT (0.98486 42.64691),Port de la Bonaigua,2266,622,Alt Àneu,26,Pallars Sobirà,25,Lleida,1,XEMA,2,Operativa,11/06/1997 12:00:00 AM,,328,2
+X1,Falset,A,41.15374,0.81953,POINT (0.81953 41.15374),Abocador comarcal. Crta de Porrera,359,668,Falset,29,Priorat,43,Tarragona,1,XEMA,2,Operativa,12/20/2006 12:00:00 AM,,414,35
+VH,Gimenells,A,41.65814,0.39301,POINT (0.39301 41.65814),IRTA - Estació de Gimenells,259,757,Gimenells i el Pla de la Font,33,Segrià,25,Lleida,1,XEMA,2,Operativa,12/10/1996 12:00:00 AM,,553,21
+WK,Alfarràs,A,41.81949,0.57768,POINT (0.57768 41.81949),"Escola de Capacitació Agrària d'Alfarràs(de 1997 a 2001, és Almenar)",268,746,Alfarràs,33,Segrià,25,Lleida,1,XEMA,2,Operativa,09/17/1997 12:00:00 AM,,724,21
+YL,Riudecanyes,A,41.1227,0.96951,POINT (0.96951 41.1227),els Gorgs,170,229,Riudecanyes,8,Baix Camp,43,Tarragona,1,XEMA,2,Operativa,02/06/2019 12:00:00 AM,,942,39
+CT,el Pont de Suert,A,42.39811,0.74362,POINT (0.74362 42.39811),Depuradora municipal,823,138,El Pont de Suert,5,Alta Ribagorça,25,Lleida,1,XEMA,2,Operativa,02/14/1996 12:00:00 AM,,300,3
+XR,Prades,A,41.31481,0.98161,POINT (0.98161 41.31481),La Comanda,928,226,Prades,8,Baix Camp,43,Tarragona,1,XEMA,2,Operativa,01/31/2013 12:00:00 AM,,492,39
+H1,Òdena,A,41.58642,1.65306,POINT (1.65306 41.58642),Aeròdrom d'Òdena,333,158,Òdena,6,Anoia,8,Barcelona,1,XEMA,2,Operativa,05/31/1999 12:00:00 AM,,742,24
+UE,Torroella de Montgrí,A,42.02306,3.15719,POINT (3.15719 42.02306),la Feixa Gata,4,280,Torroella de Montgrí,10,Baix Empordà,17,Girona,1,XEMA,2,Operativa,06/09/1999 12:00:00 AM,,153,16
+W4,la Granada,A,41.36619,1.72857,POINT (1.72857 41.36619),Rasa de Sagols,240,98,La Granada,3,Alt Penedès,8,Barcelona,1,XEMA,2,Operativa,12/25/1999 12:00:00 AM,,940,32
+X3,Alguaire,A,41.74281,0.5358,POINT (0.5358 41.74281),Aeròdrom,370,748,Alguaire,33,Segrià,25,Lleida,1,XEMA,2,Operativa,06/02/2006 12:00:00 AM,,789,21
+US,Alcanar,A,40.55786,0.52329,POINT (0.52329 40.55786),El Mas d'en Serra - Barranc de St. Jaume,24,514,Alcanar,22,Montsià,43,Tarragona,1,XEMA,2,Operativa,05/06/1991 12:00:00 AM,,228,41
+CS,Viladrau - centre,A,41.84502,2.3881,POINT (2.3881 41.84502),Mas del Torrent,777,605,Viladrau,24,Osona,17,Girona,1,XEMA,1,Desmantellada,12/05/1995 12:00:00 AM,06/08/2004 12:00:00 AM,652,13
+KP,Fogars de la Selva,A,41.73894,2.69436,POINT (2.69436 41.73894),Can Simó,36,786,Fogars de la Selva,34,Selva,17,Girona,1,XEMA,2,Operativa,01/05/1996 12:00:00 AM,,901,20
+XD,Ulldemolins,A,41.32,0.8857,POINT (0.8857 41.32),Pigrossos,687,683,Ulldemolins,29,Priorat,43,Tarragona,1,XEMA,2,Operativa,04/17/2008 12:00:00 AM,,668,35
+XY,Alcarràs,A,41.56509,0.55027,POINT (0.55027 41.56509),Central del revés,122,744,Alcarràs,33,Segrià,25,Lleida,1,XEMA,2,Operativa,07/31/2013 12:00:00 AM,,759,21
+CJ,Organyà,A,42.21624,1.33132,POINT (1.33132 42.21624),Càmping municipal,566.5,130,Organyà,4,Alt Urgell,25,Lleida,1,XEMA,2,Operativa,01/16/1996 12:00:00 AM,,358,5
+U9,l'Aldea,A,40.76947,0.61635,POINT (0.61635 40.76947),Barranc del Mas Roig,62,237,L'Aldea,9,Baix Ebre,43,Tarragona,1,XEMA,2,Operativa,06/03/1991 12:00:00 AM,,216,40
+D1,Margalef,A,41.28521,0.75383,POINT (0.75383 41.28521),Dipòsit d'aigua,404,674,Margalef,29,Priorat,43,Tarragona,1,XEMA,2,Operativa,01/14/1996 12:00:00 AM,,502,35
+XG,Parets del Vallès,A,41.56734,2.22619,POINT (2.22619 41.56734),CEIP Pau Vila,123,930,Parets del Vallès,41,Vallès Oriental,8,Barcelona,1,XEMA,2,Operativa,10/30/2008 12:00:00 AM,,695,22
+UF,PN del Garraf - el Rascler,A,41.28832,1.90775,POINT (1.90775 41.28832),El Rascler - Centre de Repetidors Aeroport. Parc Natural del Garraf,573,288,Begues,11,Baix Llobregat,8,Barcelona,1,XEMA,2,Operativa,02/29/1996 12:00:00 AM,,491,31
+Z3,Malniu (2.230 m),A,42.46605,1.7785,POINT (1.7785 42.46605),Estany de Malniu,2230,377,Meranges,15,Cerdanya,17,Girona,1,XEMA,2,Operativa,11/03/1999 12:00:00 AM,,299,4
+CE,els Hostalets de Pierola,A,41.53109,1.80813,POINT (1.80813 41.53109),Abocador de residus,316,152,Els Hostalets de Pierola,6,Anoia,8,Barcelona,1,XEMA,2,Operativa,03/31/1996 12:00:00 AM,,700,24
+CU,Vielha,A,42.69856,0.79397,POINT (0.79397 42.69856),Prat de Tixineret,1002,879,Vielha e Mijaran,39,Val d'Aran,25,Lleida,1,XEMA,2,Operativa,02/15/1996 12:00:00 AM,,326,1
+Z4,Ulldeter (2.364 m),A,42.42205,2.2524,POINT (2.2524 42.42205),Ulldeter,2364,715,Setcases,31,Ripollès,17,Girona,1,XEMA,1,Desmantellada,11/08/2000 12:00:00 AM,09/20/2011 12:00:00 AM,393,7
+WI,Maials,A,41.35741,0.4809,POINT (0.4809 41.35741),Paratge d'Argelagar,350,761,Maials,33,Segrià,25,Lleida,1,XEMA,2,Operativa,12/20/2000 12:00:00 AM,,848,21
+VR,Tornabous - Montargull,A,41.68994,1.04401,POINT (1.04401 41.68994),Masia Mignot,291,868,Tornabous,38,Urgell,25,Lleida,1,XEMA,1,Desmantellada,09/17/1997 12:00:00 AM,08/06/2013 12:00:00 AM,670,17
+UW,els Alfacs,A,40.62725,0.65922,POINT (0.65922 40.62725),"IRTA Centre d'Aqüicultura, crta. Poble Nou del Delta, km 5,5",0,521,Sant Carles de la Ràpita,22,Montsià,43,Tarragona,1,XEMA,2,Operativa,07/06/1994 12:00:00 AM,,229,41
+CC,Orís,A,42.07398,2.20862,POINT (2.20862 42.07398),Abocador comarcal,626,573,Orís,24,Osona,8,Barcelona,1,XEMA,2,Operativa,11/15/1995 12:00:00 AM,,100,13
+W8,Blancafort,A,41.44237,1.15998,POINT (1.15998 41.44237),"Cooperativa vinícola, pl.del Sindicat",438,385,Blancafort,16,Conca de Barberà,43,Tarragona,1,XEMA,2,Operativa,01/18/2000 12:00:00 AM,,581,28
+C6,Castellnou de Seana,A,41.6566,0.95172,POINT (0.95172 41.6566),Abocador comarcal,264,650,Castellnou de Seana,27,Pla d'Urgell,25,Lleida,1,XEMA,2,Operativa,12/16/1995 12:00:00 AM,,754,23
+WO,la Bisbal del Penedès,A,41.27151,1.46717,POINT (1.46717 41.27151),Fondo de Cal Sumoi,185,321,La Bisbal del Penedès,12,Baix Penedès,43,Tarragona,1,XEMA,2,Operativa,05/16/2002 12:00:00 AM,,253,33
+VU,Rellinars,A,41.63286,1.91718,POINT (1.91718 41.63286),Puig de la Ballesta,421,891,Rellinars,40,Vallès Occidental,8,Barcelona,1,XEMA,2,Operativa,02/18/1998 12:00:00 AM,,744,26
+WQ,Montsec d'Ares (1.572 m),A,42.0513,0.72952,POINT (0.72952 42.0513),Serra de la Corona - Centre d'Observació de l'Univers,1572,615,Sant Esteve de la Sarga,25,Pallars Jussà,25,Lleida,1,XEMA,2,Operativa,06/17/2003 12:00:00 AM,,101,15
+UL,Castelldans,A,41.52911,0.75303,POINT (0.75303 41.52911),"Mas de St. Jaume, crta. de Castelldans a Puigvert",228,418,Castelldans,18,Garrigues,25,Lleida,1,XEMA,1,Desmantellada,09/16/1997 12:00:00 AM,02/21/2017 12:00:00 AM,692,27
+XQ,Tremp,A,42.16252,0.88814,POINT (0.88814 42.16252),Conillera de Joncar,473,620,Tremp,25,Pallars Jussà,25,Lleida,1,XEMA,2,Operativa,10/22/2012 12:00:00 AM,,305,9
+WB,Albesa,A,41.76036,0.67022,POINT (0.67022 41.76036),"Partida l'Eral, camí del Torricó",267,527,Albesa,23,Noguera,25,Lleida,1,XEMA,2,Operativa,06/21/1999 12:00:00 AM,,768,15
+DQ,Vila-rodona,A,41.30728,1.36259,POINT (1.36259 41.30728),Nova estació,287,23,Vila-rodona,1,Alt Camp,43,Tarragona,1,XEMA,2,Operativa,07/29/2005 12:00:00 AM,,506,30
+UI,Gisclareny,A,42.26477,1.76218,POINT (1.76218 42.26477),Coll de la Bena - Font del Cabrer,1386,349,Gisclareny,14,Berguedà,8,Barcelona,1,XEMA,2,Operativa,03/12/1999 12:00:00 AM,,187,8
+DK,Torredembarra,A,41.14677,1.41846,POINT (1.41846 41.14677),Aiguamolls els Muntanyans,2,836,Torredembarra,36,Tarragonès,43,Tarragona,1,XEMA,2,Operativa,11/24/1999 12:00:00 AM,,519,37
+J5,Pantà de Darnius - Boadella,A,42.34215,2.83423,POINT (2.83423 42.34215),Presa del Pantà de Darnius - Boadella,158,40,Darnius,2,Alt Empordà,17,Girona,1,XEMA,2,Operativa,01/05/1996 12:00:00 AM,,379,6
+Y9,Port de Barcelona - ZAL Prat,A,41.31723,2.13091,POINT (2.13091 41.31723),Port de Barcelona,4,304,El Prat de Llobregat,11,Baix Llobregat,8,Barcelona,1,XEMA,2,Operativa,06/26/2015 12:00:00 AM,,503,31
+WG,Algerri,A,41.80104,0.64804,POINT (0.64804 41.80104),"Comunitat de regants d'Algerri, ctra. d'Albesa, s/n",301,528,Algerri,23,Noguera,25,Lleida,1,XEMA,2,Operativa,12/13/2000 12:00:00 AM,,645,15
+UJ,Santa Coloma de Queralt,A,41.52879,1.3683,POINT (1.3683 41.52879),Partida la Cabana,709,396,Santa Coloma de Queralt,16,Conca de Barberà,43,Tarragona,1,XEMA,2,Operativa,11/19/1996 12:00:00 AM,,661,28
+MV,Guixers - Valls,A,42.13598,1.67295,POINT (1.67295 42.13598),Cal Teuler,845,807,Guixers,35,Solsonès,25,Lleida,1,XEMA,2,Operativa,06/17/2015 12:00:00 AM,,304,12
+VV,Sant Llorenç Savall,A,41.68129,2.02647,POINT (2.02647 41.68129),Masia Can Brossa,528,896,Sant Llorenç Savall,40,Vallès Occidental,8,Barcelona,1,XEMA,2,Operativa,03/25/1998 12:00:00 AM,,628,26
+UP,Cabrils,A,41.51773,2.37702,POINT (2.37702 41.51773),"IRTA Cabrils, crta. de Vilassar a Cabrils, s/n",81,489,Cabrils,21,Maresme,8,Barcelona,1,XEMA,2,Operativa,11/27/1995 12:00:00 AM,,712,25
+XA,la Panadella,A,41.60257,1.4007,POINT (1.4007 41.60257),La Creu del Vent,785,157,Montmaneu,6,Anoia,8,Barcelona,1,XEMA,2,Operativa,12/18/2008 12:00:00 AM,,903,24
+DE,Botarell,A,41.15404,0.99772,POINT (0.99772 41.15404),Planta de compostatge,231,216,Botarell,8,Baix Camp,43,Tarragona,1,XEMA,1,Desmantellada,01/16/1998 12:00:00 AM,01/16/2007 12:00:00 AM,427,39
+VC,Pantà de Riba-roja,A,41.24415,0.43266,POINT (0.43266 41.24415),Presa de Riba-roja,69,696,Riba-roja d'Ebre,30,Ribera d'Ebre,43,Tarragona,1,XEMA,2,Operativa,11/18/1996 12:00:00 AM,,497,36
+C9,Mas de Barberans,A,40.71825,0.39988,POINT (0.39988 40.71825),Abocador comarcal,240,519,Mas de Barberans,22,Montsià,43,Tarragona,1,XEMA,2,Operativa,04/11/1997 12:00:00 AM,,219,41
+AN,Barcelona - Av. Lluís Companys,A,41.39004,2.18091,POINT (2.18091 41.39004),Av. Lluís Companys (Ciutadella),7.5,332,Barcelona,13,Barcelonès,8,Barcelona,1,XEMA,1,Desmantellada,05/11/1992 12:00:00 AM,10/29/2002 12:00:00 AM,512,29
+CK,Santa Coloma de Farners,A,41.86472,2.66451,POINT (2.66451 41.86472),Dipòsit d'aigua,163,798,Santa Coloma de Farners,34,Selva,17,Girona,1,XEMA,1,Desmantellada,02/05/1996 12:00:00 AM,06/08/2004 12:00:00 AM,634,20
+Y4,Alinyà,A,42.17426,1.42775,POINT (1.42775 42.17426),Tossal de Salamó,1162,126,Fígols i Alinyà,4,Alt Urgell,25,Lleida,1,XEMA,2,Operativa,07/01/2014 12:00:00 AM,,269,5
+Z5,Certascan (2.400 m),A,42.70029,1.27201,POINT (1.27201 42.70029),Certascan,2400,629,Lladorre,26,Pallars Sobirà,25,Lleida,1,XEMA,2,Operativa,11/11/2000 12:00:00 AM,,315,2
+ZC,Ulldeter (2.410 m),A,42.42117,2.24565,POINT (2.24565 42.42117),Ulldeter,2410,715,Setcases,31,Ripollès,17,Girona,1,XEMA,2,Operativa,09/28/2011 12:00:00 AM,,393,7
+CL,Sant Salvador de Guardiola,A,41.67399,1.76796,POINT (1.76796 41.67399),Urbanització Miralda,349,203,Sant Salvador de Guardiola,7,Bages,8,Barcelona,1,XEMA,2,Operativa,02/02/1996 12:00:00 AM,,630,18
+DC,Olot - Pla de Baix,A,42.19144,2.48263,POINT (2.48263 42.19144),Heliport Mossos d'Esquadra,421.5,443,Olot,19,Garrotxa,17,Girona,1,XEMA,1,Desmantellada,04/24/1998 12:00:00 AM,07/21/2016 12:00:00 AM,294,10
+VW,Caldes de Montbui - Torre Marimon,A,41.61235,2.17099,POINT (2.17099 41.61235),Finca Torre Marimon,164.5,907,Caldes de Montbui,41,Vallès Oriental,8,Barcelona,1,XEMA,1,Desmantellada,12/23/1990 12:00:00 AM,03/08/2007 12:00:00 AM,758,22
+XT,Solsona,A,41.98766,1.51165,POINT (1.51165 41.98766),Magatzem Municipal,691,818,Solsona,35,Solsonès,25,Lleida,1,XEMA,2,Operativa,07/12/2012 12:00:00 AM,,132,12
+X8,Barcelona - Zona Universitària,A,41.37919,2.1054,POINT (2.1054 41.37919),Pistes UB,79,332,Barcelona,13,Barcelonès,8,Barcelona,1,XEMA,2,Operativa,04/17/2008 12:00:00 AM,,117,29
+UN,Cassà de la Selva,A,41.87449,2.92694,POINT (2.92694 41.87449),Finca Mas Bassets,171,462,Cassà de la Selva,20,Gironès,17,Girona,1,XEMA,2,Operativa,03/08/1993 12:00:00 AM,,644,14
+VT,Cerdanyola del Vallès,A,41.48401,2.12745,POINT (2.12745 41.48401),Parc Tecnològic del Vallès. Masia Can Fatjó del Molí,84,885,Cerdanyola del Vallès,40,Vallès Occidental,8,Barcelona,1,XEMA,1,Desmantellada,05/15/1998 12:00:00 AM,01/03/2014 12:00:00 AM,570,26
+WR,Torroja del Priorat,A,41.2163,0.79748,POINT (0.79748 41.2163),"Ref.cadastral: Pol. 3, parc. 38",300,682,Torroja del Priorat,29,Priorat,43,Tarragona,1,XEMA,2,Operativa,11/27/2003 12:00:00 AM,,521,35
+Y5,Navata,A,42.22793,2.86295,POINT (2.86295 42.22793),Can Tries,152,55,Navata,2,Alt Empordà,17,Girona,1,XEMA,2,Operativa,08/26/2014 12:00:00 AM,,359,6
+VE,Aitona,A,41.48692,0.46058,POINT (0.46058 41.48692),Camí del canal de Seròs,97,740,Aitona,33,Segrià,25,Lleida,1,XEMA,2,Operativa,03/12/1998 12:00:00 AM,,696,21
+UC,Monells,A,41.97726,2.99705,POINT (2.99705 41.97726),Finca Camps i Armet - Escola Capacitació Agrària,60,259,"Cruïlles, Monells i Sant Sadurní de l'Heura",10,Baix Empordà,17,Girona,1,XEMA,2,Operativa,03/04/1998 12:00:00 AM,,29,16
+DG,Núria (1.971 m),A,42.39848,2.15517,POINT (2.15517 42.39848),Santuari de Núria,1971.4,710,Queralbs,31,Ripollès,17,Girona,1,XEMA,2,Operativa,05/15/1998 12:00:00 AM,,402,7
+XH,Sort,A,42.40533,1.12993,POINT (1.12993 42.40533),Escola de Piragüisme,679,633,Sort,26,Pallars Sobirà,25,Lleida,1,XEMA,2,Operativa,07/31/2009 12:00:00 AM,,334,2
+UT,les Cases d'Alcanar,A,40.55219,0.53252,POINT (0.53252 40.55219),Port de les Cases d'Alcanar,3,514,Alcanar,22,Montsià,43,Tarragona,1,XEMA,1,Desmantellada,08/31/1993 12:00:00 AM,11/11/2001 12:00:00 AM,228,41
+V5,Perafita,A,42.03947,2.11993,POINT (2.11993 42.03947),Finca la Tria,774,575,Perafita,24,Osona,8,Barcelona,1,XEMA,2,Operativa,07/03/1995 12:00:00 AM,,145,13
+CM,Montmeló,A,41.54911,2.24546,POINT (2.24546 41.54911),Torreta de Can Campanyà,75.2,927,Montmeló,41,Vallès Oriental,8,Barcelona,1,XEMA,1,Desmantellada,01/23/1996 12:00:00 AM,03/22/2006 12:00:00 AM,736,22
+MS,Castellar de n'Hug - el Clot del Moro,A,42.25978,1.97747,POINT (1.97747 42.25978),Aforament Castellar de n'Hug,938,343,Castellar de n'Hug,14,Berguedà,8,Barcelona,1,XEMA,1,Desmantellada,01/26/2010 12:00:00 AM,06/01/2011 12:00:00 AM,260,8
+VN,Vilobí d'Onyar,A,41.88244,2.74262,POINT (2.74262 41.88244),Camps de Can Salvà,117,803,Vilobí d'Onyar,34,Selva,17,Girona,1,XEMA,2,Operativa,11/10/1998 12:00:00 AM,,584,20
+C7,Tàrrega,A,41.66695,1.16234,POINT (1.16234 41.66695),Abocador comarcal,427,867,Tàrrega,38,Urgell,25,Lleida,1,XEMA,2,Operativa,11/06/1995 12:00:00 AM,,880,17
+DM,Girona - Bombers,A,41.96012,2.80696,POINT (2.80696 41.96012),Parc de Bombers,90,467,Girona,20,Gironès,17,Girona,1,XEMA,1,Desmantellada,05/10/2001 12:00:00 AM,09/15/2010 12:00:00 AM,133,14
+YJ,Lleida - la Femosa,A,41.58462,0.64172,POINT (0.64172 41.58462),la Gabarrera,170,760,Lleida,33,Segrià,25,Lleida,1,XEMA,2,Operativa,08/21/2018 12:00:00 AM,,875,21
+VZ,Espolla,A,42.38443,3.00736,POINT (3.00736 42.38443),"Llaurants. Ref. Cadastral: Pol. 5, parc.195",83,42,Espolla,2,Alt Empordà,17,Girona,1,XEMA,2,Operativa,06/07/2000 12:00:00 AM,,346,6
+WS,Viladrau,A,41.84008,2.41877,POINT (2.41877 41.84008),Mas Vilarmau,953,605,Viladrau,24,Osona,17,Girona,1,XEMA,2,Operativa,03/17/2005 12:00:00 AM,,652,13
+U5,Prades - los Hortals,A,41.31349,0.99611,POINT (0.99611 41.31349),Finca los Hortals,969,226,Prades,8,Baix Camp,43,Tarragona,1,XEMA,1,Desmantellada,12/12/1995 12:00:00 AM,01/31/2013 12:00:00 AM,492,39
+CP,Sant Romà d'Abella,A,42.13924,1.03893,POINT (1.03893 42.13924),Sant Romà d'Abella - el Tossal,690,611,Isona i Conca Dellà,25,Pallars Jussà,25,Lleida,1,XEMA,2,Operativa,05/20/1996 12:00:00 AM,,110,9
+CR,la Quar,A,42.08032,1.9624,POINT (1.9624 42.08032),Sant Maurici,873,358,La Quar,14,Berguedà,8,Barcelona,1,XEMA,2,Operativa,03/13/1996 12:00:00 AM,,66,8
+CX,Vic - 1,A,41.93582,2.23857,POINT (2.23857 41.93582),Estadi d'atletisme,497.8,603,Vic,24,Osona,8,Barcelona,1,XEMA,1,Desmantellada,01/18/1996 12:00:00 AM,01/01/2003 12:00:00 AM,912,13
+DA,Vila-rodona - Escola,A,41.30839,1.3622,POINT (1.3622 41.30839),Zona de les Escoles Noves,278,23,Vila-rodona,1,Alt Camp,43,Tarragona,1,XEMA,1,Desmantellada,01/23/1998 12:00:00 AM,07/28/2005 12:00:00 AM,506,30
+VQ,Constantí,A,41.1713,1.16774,POINT (1.16774 41.1713),IRTA - Centre de Mas Bové. Apt. correus 415,112,821,Constantí,36,Tarragonès,43,Tarragona,1,XEMA,2,Operativa,05/29/1990 12:00:00 AM,,420,37
+CI,Sant Pau de Segúries,A,42.25839,2.36429,POINT (2.36429 42.25839),Estació meteorològica municipal,852,714,Sant Pau de Segúries,31,Ripollès,17,Girona,1,XEMA,2,Operativa,11/24/1995 12:00:00 AM,,264,7
+U4,Castellnou de Bages,A,41.83094,1.84699,POINT (1.84699 41.83094),Masia Can Vilaseca,507,184,Castellnou de Bages,7,Bages,8,Barcelona,1,XEMA,2,Operativa,01/22/1998 12:00:00 AM,,655,18
+MQ,Cardona,A,41.92047,1.69584,POINT (1.69584 41.92047),Boca nord del túnel de desviament del Cardener,402,180,Cardona,7,Bages,8,Barcelona,1,XEMA,2,Operativa,01/16/2003 12:00:00 AM,,140,18
+V9,Miralcamp,A,41.61333,0.87608,POINT (0.87608 41.61333),Partida la Boletera,256,655,Miralcamp,27,Pla d'Urgell,25,Lleida,1,XEMA,1,Desmantellada,09/26/1997 12:00:00 AM,02/01/2010 12:00:00 AM,545,23
+DB,el Perelló,A,40.87287,0.71581,POINT (0.71581 40.87287),Dipòsit d'aigua,179,246,El Perelló,9,Baix Ebre,43,Tarragona,1,XEMA,2,Operativa,02/05/1998 12:00:00 AM,,136,40
+D7,Vinebre,A,41.18499,0.59376,POINT (0.59376 41.18499),Partida de Mallols,53,699,Vinebre,30,Ribera d'Ebre,43,Tarragona,1,XEMA,2,Operativa,01/22/1998 12:00:00 AM,,443,36
+WZ,Cunit,A,41.20187,1.63346,POINT (1.63346 41.20187),-,17,324,Cunit,12,Baix Penedès,43,Tarragona,1,XEMA,2,Operativa,06/27/2006 12:00:00 AM,,425,33
+VJ,Lleida - Pla de Lleida,A,41.59957,0.6478,POINT (0.6478 41.59957),"C. Pla de Lleida, 10 - Bordeta",161,760,Lleida,33,Segrià,25,Lleida,1,XEMA,1,Desmantellada,09/16/1997 12:00:00 AM,07/24/2013 12:00:00 AM,875,21
+WP,Canaletes,A,41.48518,1.69337,POINT (1.69337 41.48518),Camp del Roure - Can Feixes,325,99,Mediona,3,Alt Penedès,8,Barcelona,1,XEMA,2,Operativa,05/17/2002 12:00:00 AM,,945,24
+WH,Bellvís,A,41.67342,0.8129,POINT (0.8129 41.67342),"Molí de Balaguer, crta. de Térmens",196,649,Bellvís,27,Pla d'Urgell,25,Lleida,1,XEMA,1,Desmantellada,09/17/1997 12:00:00 AM,11/17/2004 12:00:00 AM,619,23
+VF,Alcarràs - Torrent d'Alcarràs,A,41.56482,0.54999,POINT (0.54999 41.56482),Partida Graminella,122,744,Alcarràs,33,Segrià,25,Lleida,1,XEMA,1,Desmantellada,09/17/1997 12:00:00 AM,07/31/2013 12:00:00 AM,759,21
+CF,Lloret de Mar,A,41.72346,2.84282,POINT (2.84282 41.72346),Abocador municipal,63.3,788,Lloret de Mar,34,Selva,17,Girona,1,XEMA,1,Desmantellada,02/05/1996 12:00:00 AM,06/16/2003 12:00:00 AM,751,20
+W5,Oliana,A,42.07683,1.31489,POINT (1.31489 42.07683),Partida Esclotes,490,129,Oliana,4,Alt Urgell,25,Lleida,1,XEMA,2,Operativa,06/22/2000 12:00:00 AM,,353,5
+UA,l'Ametlla de Mar,A,40.9091,0.76943,POINT (0.76943 40.9091),Caseta d'en Butxaca,93,240,L'Ametlla de Mar,9,Baix Ebre,43,Tarragona,1,XEMA,2,Operativa,08/29/1995 12:00:00 AM,,206,40
+Y7,Port de Barcelona - Bocana Sud,A,41.31725,2.16537,POINT (2.16537 41.31725),Port de Barcelona,3,304,El Prat de Llobregat,11,Baix Llobregat,8,Barcelona,1,XEMA,2,Operativa,04/08/2015 12:00:00 AM,,503,31
+X6,Baldomar,A,41.92173,1.02901,POINT (1.02901 41.92173),Baldomar,366,530,Artesa de Segre,23,Noguera,25,Lleida,1,XEMA,2,Operativa,10/24/2006 12:00:00 AM,,152,15
+XE,Tarragona - Complex Educatiu,A,41.10393,1.201,POINT (1.201 41.10393),Complex Educatiu,5,835,Tarragona,36,Tarragonès,43,Tarragona,1,XEMA,2,Operativa,02/05/2009 12:00:00 AM,,230,37
+XB,la Llacuna,A,41.4779,1.53529,POINT (1.53529 41.4779),Cal Mateu,584,155,La Llacuna,6,Anoia,8,Barcelona,1,XEMA,2,Operativa,03/19/2008 12:00:00 AM,,938,24
+DH,Badalona - Mas Ram,A,41.47638,2.25213,POINT (2.25213 41.47638),Urb. Mas Ram - Escola Pere Vergès,126,331,Badalona,13,Barcelonès,8,Barcelona,1,XEMA,1,Desmantellada,03/23/1998 12:00:00 AM,09/08/2005 12:00:00 AM,531,29
+XZ,Torroella de Fluvià,A,42.18139,3.06202,POINT (3.06202 42.18139),,7,79,Torroella de Fluvià,2,Alt Empordà,17,Girona,1,XEMA,2,Operativa,04/08/2014 12:00:00 AM,,281,6
+DO,Castell d'Aro,A,41.80857,3.03241,POINT (3.03241 41.80857),Parc de Bombers,14,256,Castell-Platja d'Aro,10,Baix Empordà,17,Girona,1,XEMA,2,Operativa,05/10/2001 12:00:00 AM,,749,16
+V8,el Poal,A,41.67279,0.87741,POINT (0.87741 41.67279),"Finca el Molinet, c. Afores, s/n",223,658,El Poal,27,Pla d'Urgell,25,Lleida,1,XEMA,2,Operativa,09/14/1989 12:00:00 AM,,731,23
+UB,la Tallada d'Empordà,A,42.05398,3.06195,POINT (3.06195 42.05398),Findació Mas Badia - Canet de la Tallada,15,278,La Tallada d'Empordà,10,Baix Empordà,17,Girona,1,XEMA,2,Operativa,05/01/1989 12:00:00 AM,,91,16
+X7,Torres de Segre,A,41.51909,0.55314,POINT (0.55314 41.51909),Torres de Segre,215,774,Torres de Segre,33,Segrià,25,Lleida,1,XEMA,2,Operativa,07/02/2007 12:00:00 AM,,562,21
+UK,Sant Pere de Ribes - PN del Garraf,A,41.27861,1.80479,POINT (1.80479 41.27861),Granja escola Can Pere,161,409,Sant Pere de Ribes,17,Garraf,8,Barcelona,1,XEMA,2,Operativa,05/11/1999 12:00:00 AM,,541,34
+VB,Benissanet,A,41.06289,0.63517,POINT (0.63517 41.06289),"Grup Fruiter Benissanet, crta. de Mora, s/n",32,687,Benissanet,30,Ribera d'Ebre,43,Tarragona,1,XEMA,2,Operativa,07/14/1993 12:00:00 AM,,159,36
+XW,Lleida - la Bordeta,A,41.59822,0.64855,POINT (0.64855 41.59822),Torre de Vallverdú,165,760,Lleida,33,Segrià,25,Lleida,1,XEMA,1,Desmantellada,07/24/2013 12:00:00 AM,10/17/2018 12:00:00 AM,875,21
+C8,Cervera,A,41.67555,1.29609,POINT (1.29609 41.67555),Abocador comarcal,554,720,Cervera,32,Segarra,25,Lleida,1,XEMA,2,Operativa,10/27/1995 12:00:00 AM,,900,19
+WA,Oliola,A,41.87694,1.1541,POINT (1.1541 41.87694),Partida l'Era,443,544,Oliola,23,Noguera,25,Lleida,1,XEMA,2,Operativa,03/26/2001 12:00:00 AM,,913,15
+YK,Terrassa,A,41.55361,1.99005,POINT (1.99005 41.55361),Can Poal,313,900,Terrassa,40,Vallès Occidental,8,Barcelona,1,XEMA,2,Operativa,12/20/2018 12:00:00 AM,,862,26
+Z9,Cadí Nord (2.143 m) - Prat d'Aguiló,A,42.29265,1.71498,POINT (1.71498 42.29265),Cadí Nord - Prat d'Aguiló,2143,378,Montellà i Martinet,15,Cerdanya,25,Lleida,1,XEMA,2,Operativa,11/06/2003 12:00:00 AM,,433,4
+VX,Tagamanent - PN del Montseny,A,41.74761,2.30291,POINT (2.30291 41.74761),Can Bellver - Serrat de Bellver. Parc Natural del Montseny,1030,942,Tagamanent,41,Vallès Oriental,8,Barcelona,1,XEMA,2,Operativa,01/04/1996 12:00:00 AM,,818,22
+WV,Guardiola de Berguedà,A,42.23414,1.87485,POINT (1.87485 42.23414),Monestir de Sant Llorenç prop Bagà,788,351,Guardiola de Berguedà,14,Berguedà,8,Barcelona,1,XEMA,2,Operativa,11/28/2005 12:00:00 AM,,181,8
+U2,Sant Pere Pescador,A,42.17716,3.0968,POINT (3.0968 42.17716),"Mas Blanc, Mas Fages 17",4,73,Sant Pere Pescador,2,Alt Empordà,17,Girona,1,XEMA,2,Operativa,05/01/1989 12:00:00 AM,,278,6
+W6,Riudoms,A,41.13738,1.0187,POINT (1.0187 41.13738),Mas d'en Domènec,158,231,Riudoms,8,Baix Camp,43,Tarragona,1,XEMA,1,Desmantellada,10/19/1999 12:00:00 AM,02/06/2019 12:00:00 AM,427,39
+WF,Vilablareix,A,41.95425,2.77578,POINT (2.77578 41.95425),Mas Saüch,108,482,Vilablareix,20,Gironès,17,Girona,1,XEMA,1,Desmantellada,04/11/2001 12:00:00 AM,10/01/2015 12:00:00 AM,894,14
+D8,Horta de Sant Joan,A,40.95134,0.30565,POINT (0.30565 40.95134),Les Forques,515,847,Horta de Sant Joan,37,Terra Alta,43,Tarragona,1,XEMA,2,Operativa,01/28/1998 12:00:00 AM,,167,38
+UR,Malgrat de Mar - Cooperativa,A,41.64908,2.75209,POINT (2.75209 41.64908),"Cooperativa Garbí, camí del Pla, s/n. Apt. correus 80",2,494,Malgrat de Mar,21,Maresme,8,Barcelona,1,XEMA,1,Desmantellada,01/09/1990 12:00:00 AM,05/04/2005 12:00:00 AM,800,25
+ZB,Salòria (2.451 m),A,42.51939,1.36597,POINT (1.36597 42.51939),Salòria,2451,621,Alins,26,Pallars Sobirà,25,Lleida,1,XEMA,2,Operativa,09/30/2004 12:00:00 AM,,317,2
+WL,Sant Martí de Riucorb,A,41.57236,1.0882,POINT (1.0882 41.57236),"Camí de les Comes, pol. 2, parc. 137",413,866,Sant Martí de Riucorb,38,Urgell,25,Lleida,1,XEMA,2,Operativa,02/05/2002 12:00:00 AM,,599,17
+W9,la Vall d'en Bas,A,42.14557,2.45451,POINT (2.45451 42.14557),Escola Verntallat,461,456,La Vall d'en Bas,19,Garrotxa,17,Girona,1,XEMA,2,Operativa,03/16/2000 12:00:00 AM,,307,10
+WU,Badalona - Museu,A,41.45215,2.24757,POINT (2.24757 41.45215),Museu,42,331,Badalona,13,Barcelonès,8,Barcelona,1,XEMA,2,Operativa,09/21/2005 12:00:00 AM,,531,29
+CZ,Ulldemolins - Zona Esportiva,A,41.3191,0.87868,POINT (0.87868 41.3191),Poliesportiu municipal,631,683,Ulldemolins,29,Priorat,43,Tarragona,1,XEMA,1,Desmantellada,03/04/1996 12:00:00 AM,04/15/2008 12:00:00 AM,668,35
+VO,Lladurs,A,42.08745,1.42792,POINT (1.42792 42.08745),Masia el Pla - Montpol,785,808,Lladurs,35,Solsonès,25,Lleida,1,XEMA,2,Operativa,05/05/1998 12:00:00 AM,,81,12
+UV,Mas de Barberans - Mitanplana,A,40.71727,0.41633,POINT (0.41633 40.71727),Finca del Sifonero,205,519,Mas de Barberans,22,Montsià,43,Tarragona,1,XEMA,1,Desmantellada,11/17/1992 12:00:00 AM,01/03/2011 12:00:00 AM,219,41
+XO,Vic,A,41.93497,2.23987,POINT (2.23987 41.93497),Vic,499,603,Vic,24,Osona,8,Barcelona,1,XEMA,2,Operativa,12/22/2011 12:00:00 AM,,912,13
+XC,Castellbisbal,A,41.47892,1.97546,POINT (1.97546 41.47892),Turó de la Verdalaga,147,884,Castellbisbal,40,Vallès Occidental,8,Barcelona,1,XEMA,2,Operativa,03/18/2008 12:00:00 AM,,946,26
+CV,la Pobla de Segur - Bombers,A,42.23939,0.96434,POINT (0.96434 42.23939),Parc de Bombers,513.3,613,La Pobla de Segur,25,Pallars Jussà,25,Lleida,1,XEMA,1,Desmantellada,12/22/1995 12:00:00 AM,11/18/2016 12:00:00 AM,249,9
+XK,Puig Sesolles (1.668 m),A,41.77362,2.43774,POINT (2.43774 41.77362),Puig Sesolles (Massís del Montseny),1668,915,Fogars de Montclús,41,Vallès Oriental,8,Barcelona,1,XEMA,2,Operativa,09/22/2010 12:00:00 AM,,786,22
+W2,Torroella de Fluvià,A,42.18259,3.05783,POINT (3.05783 42.18259),Camp de Pla d'Avall - Camp de la Creu,7,79,Torroella de Fluvià,2,Alt Empordà,17,Girona,1,XEMA,1,Desmantellada,03/14/2000 12:00:00 AM,04/08/2014 12:00:00 AM,281,6
+ZD,la Tosa d'Alp 2500,A,42.32211,1.89716,POINT (1.89716 42.32211),Tosa d'Alp,2478,367,Alp,15,Cerdanya,17,Girona,1,XEMA,2,Operativa,09/04/2014 12:00:00 AM,,251,8
+CB,les Llosses,A,42.15085,2.19914,POINT (2.19914 42.15085),Abocador comarcal,700,705,Les Llosses,31,Ripollès,17,Girona,1,XEMA,1,Desmantellada,11/30/1995 12:00:00 AM,06/02/2003 12:00:00 AM,65,7
+WW,Artés,A,41.79423,1.9368,POINT (1.9368 41.79423),Artés,278,175,Artés,7,Bages,8,Barcelona,1,XEMA,2,Operativa,02/16/2006 12:00:00 AM,,766,18
+Y6,Tivissa,A,41.04343,0.74032,POINT (0.74032 41.04343),-,317,697,Tivissa,30,Ribera d'Ebre,43,Tarragona,1,XEMA,2,Operativa,03/26/2015 12:00:00 AM,,156,36
+WD,Batea,A,41.08671,0.31884,POINT (0.31884 41.08671),Clos Cóssos,382,841,Batea,37,Terra Alta,43,Tarragona,1,XEMA,2,Operativa,12/23/1999 12:00:00 AM,,426,38
+CQ,Vilanova de Meià,A,41.99546,1.02569,POINT (1.02569 41.99546),Camp de fútbol,594,555,Vilanova de Meià,23,Noguera,25,Lleida,1,XEMA,2,Operativa,04/01/1996 12:00:00 AM,,122,15
+V7,Embassament de Sau,A,41.97554,2.39837,POINT (2.39837 41.97554),Embassament de Sau. Club Nàutic.,435,606,Vilanova de Sau,24,Osona,8,Barcelona,1,XEMA,1,Desmantellada,05/20/1997 12:00:00 AM,05/02/2006 12:00:00 AM,19,13
+XS,Santa Coloma de Farners,A,41.86489,2.66446,POINT (2.66446 41.86489),Dipòsit d'aigua,162,798,Santa Coloma de Farners,34,Selva,17,Girona,1,XEMA,2,Operativa,03/26/2013 12:00:00 AM,,634,20
+XI,Mollerussa,A,41.61817,0.87182,POINT (0.87182 41.61817),-,247,656,Mollerussa,27,Pla d'Urgell,25,Lleida,1,XEMA,2,Operativa,01/20/2010 12:00:00 AM,,543,23
+U8,Punta del Fangar,A,40.78653,0.74264,POINT (0.74264 40.78653),Punta del Fangar,0,244,Deltebre,9,Baix Ebre,43,Tarragona,1,XEMA,1,Desmantellada,04/30/1992 12:00:00 AM,02/19/2009 12:00:00 AM,217,40
+UH,el Montmell,A,41.34171,1.48769,POINT (1.48769 41.34171),Finca Vallflor - Aigua Viva,545,327,El Montmell,12,Baix Penedès,43,Tarragona,1,XEMA,2,Operativa,07/13/1995 12:00:00 AM,,835,33
+WY,Sant Sadurní d'Anoia,A,41.43386,1.79429,POINT (1.79429 41.43386),-,164,111,Sant Sadurní d'Anoia,3,Alt Penedès,8,Barcelona,1,XEMA,2,Operativa,04/11/2006 12:00:00 AM,,918,32
+MR,Pantà de Siurana,A,41.25079,0.9106,POINT (0.9106 41.25079),Pantà de Siurana - Xalet del Pantà,500,667,Cornudella de Montsant,29,Priorat,43,Tarragona,1,XEMA,2,Operativa,11/08/2010 12:00:00 AM,,508,35
+UO,Fornells de la Selva,A,41.91461,2.82069,POINT (2.82069 41.91461),La Torre de Reset,97,466,Fornells de la Selva,20,Gironès,17,Girona,1,XEMA,2,Operativa,11/10/1998 12:00:00 AM,,919,14
+UD,Serra de Daró,A,42.02895,3.06227,POINT (3.06227 42.02895),Camí de la Barceloneta - St. Iscle d'Empordà,12,277,Serra de Daró,10,Baix Empordà,17,Girona,1,XEMA,1,Desmantellada,06/09/1999 12:00:00 AM,06/01/2013 12:00:00 AM,123,16
+X2,Barcelona - Zoo,A,41.38943,2.18847,POINT (2.18847 41.38943),Zoo,7,332,Barcelona,13,Barcelonès,8,Barcelona,1,XEMA,2,Operativa,09/22/2006 12:00:00 AM,,512,29
+VP,Pinós,A,41.80483,1.53853,POINT (1.53853 41.80483),Masia Can Caselles,659,815,Pinós,35,Solsonès,25,Lleida,1,XEMA,2,Operativa,07/03/1995 12:00:00 AM,,587,12
+CO,Torres de Segre - Depuradora,A,41.52603,0.52711,POINT (0.52711 41.52603),Depuradora municipal,143.6,774,Torres de Segre,33,Segrià,25,Lleida,1,XEMA,1,Desmantellada,11/23/1995 12:00:00 AM,05/25/2006 12:00:00 AM,562,21
+VK,Raimat,A,41.68328,0.4487,POINT (0.4487 41.68328),Finca Montserrat - Raimat,286,760,Lleida,33,Segrià,25,Lleida,1,XEMA,2,Operativa,08/31/1988 12:00:00 AM,,875,21
+U3,Sant Martí Sarroca,A,41.37491,1.63032,POINT (1.63032 41.37491),Mas Rabell de Fontenac,257,108,Sant Martí Sarroca,3,Alt Penedès,8,Barcelona,1,XEMA,2,Operativa,05/24/1997 12:00:00 AM,,846,32
+V4,Montesquiu,A,42.11477,2.21483,POINT (2.21483 42.11477),Castell de Montesquiu,684,570,Montesquiu,24,Osona,8,Barcelona,1,XEMA,2,Operativa,12/02/1998 12:00:00 AM,,68,13
+WN,Montserrat - Sant Dimes,A,41.59539,1.83751,POINT (1.83751 41.59539),Ermita de Sant Dimes,916,192,Monistrol de Montserrat,7,Bages,8,Barcelona,1,XEMA,2,Operativa,01/02/2003 12:00:00 AM,,478,18
+WJ,el Masroig,A,41.1223,0.72182,POINT (0.72182 41.1223),Finca Terranova,141,675,El Masroig,29,Priorat,43,Tarragona,1,XEMA,2,Operativa,06/20/2000 12:00:00 AM,,520,35
+W3,Ventalló,A,42.15006,3.06494,POINT (3.06494 42.15006),el Camp Lletget - Mare de Déu de l'Om - Montiró,4,81,Ventalló,2,Alt Empordà,17,Girona,1,XEMA,1,Desmantellada,03/14/2000 12:00:00 AM,01/12/2015 12:00:00 AM,311,6
+CN,Guardiola de Berguedà - Escola,A,42.22903,1.87672,POINT (1.87672 42.22903),Centre d'Assistència Primària,719.8,351,Guardiola de Berguedà,14,Berguedà,8,Barcelona,1,XEMA,1,Desmantellada,02/20/1996 12:00:00 AM,03/21/2005 12:00:00 AM,181,8
+XM,els Alamús,A,41.59522,0.73507,POINT (0.73507 41.59522),-,235,741,Els Alamús,33,Segrià,25,Lleida,1,XEMA,2,Operativa,06/22/2011 12:00:00 AM,,860,21
+DJ,Banyoles,A,42.11653,2.78969,POINT (2.78969 42.11653),Abocador comarcal de Puigpalter,176,636,Banyoles,28,Pla de l'Estany,17,Girona,1,XEMA,2,Operativa,10/11/1999 12:00:00 AM,,57,11
+U7,Aldover,A,40.85936,0.50525,POINT (0.50525 40.85936),Granges de Fabra,52,238,Aldover,9,Baix Ebre,43,Tarragona,1,XEMA,2,Operativa,12/31/1994 12:00:00 AM,,209,40
+WE,Vilanova del Vallès,A,41.5444,2.30014,POINT (2.30014 41.5444),Mas Casa Alta,126,946,Vilanova del Vallès,41,Vallès Oriental,8,Barcelona,1,XEMA,2,Operativa,07/05/2000 12:00:00 AM,,702,22
+WT,Malgrat de Mar,A,41.64707,2.75658,POINT (2.75658 41.64707),Camí de la Pomereda,2,494,Malgrat de Mar,21,Maresme,8,Barcelona,1,XEMA,2,Operativa,05/04/2005 12:00:00 AM,,800,25
+XU,Canyelles,A,41.28801,1.72195,POINT (1.72195 41.28801),Cementiri,148,406,Canyelles,17,Garraf,8,Barcelona,1,XEMA,2,Operativa,07/16/2013 12:00:00 AM,,538,34
+Z8,el Port del Comte (2.316 m),A,42.18254,1.52407,POINT (1.52407 42.18254),Port del Comte,2316,806,La Coma i la Pedra,35,Solsonès,25,Lleida,1,XEMA,2,Operativa,10/03/2002 12:00:00 AM,,277,12
+D2,Vacarisses,A,41.59252,1.915,POINT (1.915 41.59252),Planta potabilitzadora,343,902,Vacarisses,40,Vallès Occidental,8,Barcelona,1,XEMA,2,Operativa,02/15/1996 12:00:00 AM,,861,26
+UU,Amposta,A,40.70776,0.6321,POINT (0.6321 40.70776),"IRTA - Estació Exp. Ebre, ctra. de Balada, s/n",3,515,Amposta,22,Montsià,43,Tarragona,1,XEMA,2,Operativa,02/06/1992 12:00:00 AM,,227,41
+YF,Mont-roig del Camp,A,41.02001,0.93474,POINT (0.93474 41.02001),Plana dels Penyals,42,225,Mont-roig del Camp,8,Baix Camp,43,Tarragona,1,XEMA,2,Operativa,12/20/2017 12:00:00 AM,,155,39
+YH,Pujalt,A,41.71734,1.42403,POINT (1.42403 41.71734),Observatori de Pujalt,747,163,Pujalt,6,Anoia,8,Barcelona,1,XEMA,2,Operativa,04/06/2018 12:00:00 AM,,902,24
+VA,Ascó,A,41.19645,0.51161,POINT (0.51161 41.19645),Camí de la Serra de les Moncas,257,686,Ascó,30,Ribera d'Ebre,43,Tarragona,1,XEMA,2,Operativa,06/15/1998 12:00:00 AM,,462,36
+XN,Seròs,A,41.46379,0.42765,POINT (0.42765 41.46379),EDAR Aitona-Seròs,89,768,Seròs,33,Segrià,25,Lleida,1,XEMA,2,Operativa,12/15/2011 12:00:00 AM,,566,21
+UG,Viladecans,A,41.29928,2.03787,POINT (2.03787 41.29928),"Planters Gusi, ctra. antiga de València, km 14",3,316,Viladecans,11,Baix Llobregat,8,Barcelona,1,XEMA,2,Operativa,04/29/1993 12:00:00 AM,,511,31
+V1,Vallfogona de Balaguer,A,41.78487,0.82939,POINT (0.82939 41.78487),Escola de Cap. Agrària - Finca l'Empalme,238,553,Vallfogona de Balaguer,23,Noguera,25,Lleida,1,XEMA,2,Operativa,10/17/1990 12:00:00 AM,,767,15
+YE,Massoteres,A,41.79409,1.305756,POINT (1.305756 41.79409),la Creu de Massoteres,513,726,Massoteres,32,Segarra,25,Lleida,1,XEMA,2,Operativa,05/17/2017 12:00:00 AM,,688,19
+Z7,Espot (2.519 m),A,42.53412,1.05476,POINT (1.05476 42.53412),Espot,2519,624,Espot,26,Pallars Sobirà,25,Lleida,1,XEMA,2,Operativa,03/01/2002 12:00:00 AM,,323,2
+Z2,Boí (2.535 m),A,42.46602,0.88405,POINT (0.88405 42.46602),Vall de Boí,2535,139,La Vall de Boí,5,Alta Ribagorça,25,Lleida,1,XEMA,2,Operativa,11/13/1998 12:00:00 AM,,321,3
+D4,Roses,A,42.27065,3.18165,POINT (3.18165 42.27065),Poliesportiu Municipal,24,68,Roses,2,Alt Empordà,17,Girona,1,XEMA,2,Operativa,02/07/1996 12:00:00 AM,,363,6
+WM,Santuari de Queralt,A,42.10736,1.8267,POINT (1.8267 42.10736),Santuari de la Mare de Déu de Queralt,1167,338,Berga,14,Berguedà,8,Barcelona,1,XEMA,2,Operativa,01/23/2002 12:00:00 AM,,73,8
+UY,Os de Balaguer - el Monestir d'Avellanes,A,41.87912,0.76103,POINT (0.76103 41.87912),Quatre Vents - Monestir de les Avellanes,576,545,Os de Balaguer,23,Noguera,25,Lleida,1,XEMA,2,Operativa,07/07/1995 12:00:00 AM,,725,15
+XL,el Prat de Llobregat,A,41.34045,2.08022,POINT (2.08022 41.34045),Camí de la Ribera s/n,8,304,El Prat de Llobregat,11,Baix Llobregat,8,Barcelona,1,XEMA,2,Operativa,03/22/2011 12:00:00 AM,,503,31
+XP,Gandesa,A,41.06581,0.43006,POINT (0.43006 41.06581),IRTA UETA Gandesa,349,846,Gandesa,37,Terra Alta,43,Tarragona,1,XEMA,2,Operativa,11/30/2011 12:00:00 AM,,205,38
+YA,Puigcerdà,A,42.44013,1.93482,POINT (1.93482 42.44013),Poliesportiu municipal,1213,381,Puigcerdà,15,Cerdanya,17,Girona,1,XEMA,2,Operativa,03/22/2016 12:00:00 AM,,348,4
+VS,Lac Redon (2.247 m),A,42.63835,0.77889,POINT (0.77889 42.63835),Lac Redon - Tuc deth Pòrt de Vielha,2247,879,Vielha e Mijaran,39,Val d'Aran,25,Lleida,1,XEMA,2,Operativa,07/15/1999 12:00:00 AM,,326,1
+CH,Falset - Escola,A,41.15076,0.82357,POINT (0.82357 41.15076),Col·legi Públic Antoni Vilanova,350,668,Falset,29,Priorat,43,Tarragona,1,XEMA,1,Desmantellada,12/01/1995 12:00:00 AM,07/05/2005 12:00:00 AM,414,35
+U6,Vinyols i els Arcs,A,41.08017,1.06661,POINT (1.06661 41.08017),Casa Sant Josep - Escola la Salle,29,236,Vinyols i els Arcs,8,Baix Camp,43,Tarragona,1,XEMA,2,Operativa,05/17/1989 12:00:00 AM,,185,39
+M6,Sant Joan de les Abadesses,A,42.22189,2.2427,POINT (2.2427 42.22189),Agrupació Esportiva del Ripollès,730,713,Sant Joan de les Abadesses,31,Ripollès,17,Girona,1,XEMA,2,Operativa,01/13/1996 12:00:00 AM,,257,7
+WC,Golmés,A,41.63642,0.92446,POINT (0.92446 41.63642),Partida Fogones,261,652,Golmés,27,Pla d'Urgell,25,Lleida,1,XEMA,2,Operativa,08/08/2000 12:00:00 AM,,798,23
+R1,el Pont de Vilomara,A,41.70637,1.87276,POINT (1.87276 41.70637),Planta de reciclatge de piles i fluorescents,210,196,El Pont de Vilomara i Rocafort,7,Bages,8,Barcelona,1,XEMA,2,Operativa,03/02/2000 12:00:00 AM,,613,18
+DF,la Bisbal d'Empordà,A,41.97751,3.03543,POINT (3.03543 41.97751),Estació depuradora,28.6,254,La Bisbal d'Empordà,10,Baix Empordà,17,Girona,1,XEMA,2,Operativa,03/25/1998 12:00:00 AM,,28,16
+VI,Lleida,A,41.62918,0.59622,POINT (0.59622 41.62918),Av. Alcalde Rovira Roure,190,760,Lleida,33,Segrià,25,Lleida,1,XEMA,1,Desmantellada,03/30/1990 12:00:00 AM,06/15/2000 12:00:00 AM,875,21
+VM,Vilanova de Segrià,A,41.7145,0.62839,POINT (0.62839 41.7145),Partida lo Sort,222,777,Vilanova de Segrià,33,Segrià,25,Lleida,1,XEMA,2,Operativa,09/17/1997 12:00:00 AM,,899,21
+CD,la Seu d'Urgell - Bellestar,A,42.37083,1.43277,POINT (1.43277 42.37083),Abocador comarcal,849,134,La Seu d'Urgell,4,Alt Urgell,25,Lleida,1,XEMA,2,Operativa,01/16/1996 12:00:00 AM,,252,5
+XX,Tornabous,A,41.68835,1.04476,POINT (1.04476 41.68835),Masia Mingot,291,868,Tornabous,38,Urgell,25,Lleida,1,XEMA,2,Operativa,08/06/2013 12:00:00 AM,,670,17
+DL,Illa de Buda,A,40.70719,0.83449,POINT (0.83449 40.70719),Mas de Buda,0.5,522,Sant Jaume d'Enveja,22,Montsià,43,Tarragona,1,XEMA,2,Operativa,07/14/1999 12:00:00 AM,,222,41
+W1,Castelló d'Empúries,A,42.24726,3.09021,POINT (3.09021 42.24726),Can Garriga - Mas Bellesguard,2,37,Castelló d'Empúries,2,Alt Empordà,17,Girona,1,XEMA,2,Operativa,03/14/2000 12:00:00 AM,,266,6
+V3,Gurb,A,41.95224,2.23271,POINT (2.23271 41.95224),Masia Can Borra,509,564,Gurb,24,Osona,8,Barcelona,1,XEMA,2,Operativa,03/31/1999 12:00:00 AM,,9,13
+YC,la Pobla de Segur,A,42.24388,0.96802,POINT (0.96802 42.24388),Horta de les Feixes,508,613,La Pobla de Segur,25,Pallars Jussà,25,Lleida,1,XEMA,2,Operativa,11/18/2016 12:00:00 AM,,249,9
+DP,Das - Aeròdrom,A,42.38605,1.8664,POINT (1.8664 42.38605),Aeròdrom de la Cerdanya,1097,370,Das,15,Cerdanya,17,Girona,1,XEMA,2,Operativa,05/22/2001 12:00:00 AM,,381,4
+DN,Anglès,A,41.96095,2.63108,POINT (2.63108 41.96095),Poliesportiu municipal,150,779,Anglès,34,Selva,17,Girona,1,XEMA,2,Operativa,05/10/2001 12:00:00 AM,,896,20
+XJ,Girona,A,41.98223,2.80686,POINT (2.80686 41.98223),Horts de Santa Eugènia,72,467,Girona,20,Gironès,17,Girona,1,XEMA,2,Operativa,09/15/2010 12:00:00 AM,,133,14
+KE,Pantà de Sau,A,41.96867,2.41404,POINT (2.41404 41.96867),Central hidroelèctrica de Sau,426,606,Vilanova de Sau,24,Osona,8,Barcelona,1,XEMA,2,Operativa,01/05/1996 12:00:00 AM,,19,13
+X5,PN dels Ports,A,40.79705,0.31822,POINT (0.31822 40.79705),Montpublic 21 sector Cova Avellanes,1055,247,Roquetes,9,Baix Ebre,43,Tarragona,1,XEMA,2,Operativa,01/04/2007 12:00:00 AM,,210,40
+DI,Font-rubí,A,41.43292,1.62386,POINT (1.62386 41.43292),Masia Ca l'Amàlia - Montjuic,415,96,Font-rubí,3,Alt Penedès,8,Barcelona,1,XEMA,2,Operativa,07/16/1998 12:00:00 AM,,719,32
+CG,Molló - Fabert,A,42.37717,2.41456,POINT (2.41456 42.37717),Veïnat de Fabert,1405,706,Molló,31,Ripollès,17,Girona,1,XEMA,2,Operativa,06/06/1996 12:00:00 AM,,378,7
+CA,Clariana de Cardener,A,41.95378,1.5851,POINT (1.5851 41.95378),Abocador comarcal,693,805,Clariana de Cardener,35,Solsonès,25,Lleida,1,XEMA,1,Desmantellada,05/02/1996 12:00:00 AM,07/10/2012 12:00:00 AM,16,12
+D5,Barcelona - Observatori Fabra,A,41.41843,2.12388,POINT (2.12388 41.41843),Observatori Fabra,411.2,332,Barcelona,13,Barcelonès,8,Barcelona,1,XEMA,2,Operativa,11/03/1995 12:00:00 AM,,512,29
+D9,el Vendrell,A,41.21553,1.52121,POINT (1.52121 41.21553),Instal·lacions esportives municipals,59,330,El Vendrell,12,Baix Penedès,43,Tarragona,1,XEMA,2,Operativa,06/11/1999 12:00:00 AM,,456,33
+VL,Seròs - la Creu,A,41.46014,0.40562,POINT (0.40562 41.46014),Crta. de Seròs a la Granja d'Escarp,100,768,Seròs,33,Segrià,25,Lleida,1,XEMA,1,Desmantellada,01/05/1998 12:00:00 AM,12/15/2011 12:00:00 AM,566,21
+UM,la Granadella,A,41.35991,0.66789,POINT (0.66789 41.35991),Horts de la Vall Major,505,424,La Granadella,18,Garrigues,25,Lleida,1,XEMA,2,Operativa,01/30/1992 12:00:00 AM,,782,27
+UX,Ulldecona - els Valentins,A,40.62652,0.37112,POINT (0.37112 40.62652),Comunitat de regants del Pou Valentins,210,525,Ulldecona,22,Montsià,43,Tarragona,1,XEMA,2,Operativa,11/15/1990 12:00:00 AM,,225,41
+KX,la Roca del Vallès - ETAP Cardedeu,A,41.61865,2.36114,POINT (2.36114 41.61865),Planta tractament d'Aigües Ter - Llobregat,156,931,La Roca del Vallès,41,Vallès Oriental,8,Barcelona,1,XEMA,2,Operativa,01/05/1996 12:00:00 AM,,939,22
+V6,Viladrau - Aigües de Viladrau,A,41.84256,2.42636,POINT (2.42636 41.84256),"Camí vell de Viladrau, s/n",871,605,Viladrau,24,Osona,8,Barcelona,1,XEMA,1,Desmantellada,10/03/1995 12:00:00 AM,03/29/2005 12:00:00 AM,730,20
+CW,l'Espluga de Francolí,A,41.39241,1.09894,POINT (1.09894 41.39241),Urb. Espluga Parc,446,387,L'Espluga de Francolí,16,Conca de Barberà,43,Tarragona,1,XEMA,2,Operativa,02/23/1996 12:00:00 AM,,532,28
+Z6,Sasseuva (2.228 m),A,42.77011,0.73198,POINT (0.73198 42.77011),Sasseuva,2228,872,Arres,39,Val d'Aran,25,Lleida,1,XEMA,2,Operativa,09/20/2001 12:00:00 AM,,310,1
+XF,Sabadell - Parc Agrari,A,41.56568,2.06952,POINT (2.06952 41.56568),Parc Agrari,258,894,Sabadell,40,Vallès Occidental,8,Barcelona,1,XEMA,2,Operativa,10/23/2008 12:00:00 AM,,660,26
+X9,Caldes de Montbui,A,41.61265,2.16836,POINT (2.16836 41.61265),Torre Marimon,176,907,Caldes de Montbui,41,Vallès Oriental,8,Barcelona,1,XEMA,2,Operativa,03/08/2007 12:00:00 AM,,758,22
+UQ,Dosrius - PN Montnegre Corredor,A,41.61991,2.44532,POINT (2.44532 41.61991),Parc Natural del Corredor. Masia Can Bosc,460,493,Dosrius,21,Maresme,8,Barcelona,1,XEMA,2,Operativa,08/09/1996 12:00:00 AM,,477,25
